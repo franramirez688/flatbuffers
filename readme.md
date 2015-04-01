@@ -2,6 +2,11 @@ FlatBuffers Version 1.0
 
 # Welcome to FlatBuffers!
 
+## Build Status
+
+- Travis: [![Build Status](https://travis-ci.org/franramirez688/flatbuffers.svg?branch=master)](https://travis-ci.org/franramirez688/flatbuffers)
+- biicode: [![Build Status](https://webapi.biicode.com/v1/badges/fenix/fenix/flatbuffers/master)](https://www.biicode.com/fenix/flatbuffers) 
+
 FlatBuffers is a serialization library for games and other memory constrained
 apps. Go to our [landing page][] to browse our documentation.
 
